@@ -4,7 +4,14 @@ I want to learn about quantum computing and am reading about it - this repositor
 
 1. [General Quantum Computing](#general)
 
-Nielsen and Chang [amazon](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary-ebook/dp/B07FPFL6HG/)
+Nielsen and Chang on [Amazon](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary-ebook/dp/B07FPFL6HG/)
+
+2. [Lecture Notes](#lecturenotes)
+|Lecturer|Class|Subject|
+|---|---|---|---|
+| John Preskill | CS219 | [Introduction and Overview](http://www.theory.caltech.edu/~preskill/ph219/)| _None_ |
+
+
 
 2. [D-Wave Quantum Annealer](#dwave)
 
