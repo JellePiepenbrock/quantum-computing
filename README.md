@@ -10,7 +10,7 @@ Nielsen and Chang on [Amazon](https://www.amazon.com/Quantum-Computation-Informa
 
 |Lecturer|Class|Subject|
 |---|---|---|
-| John Preskill | CS219 | [Introduction and Overview](http://www.theory.caltech.edu/~preskill/ph219/) | 
+| John Preskill | CS219 | [Introduction and Overview](http://www.theory.caltech.edu/people/preskill/ph229/notes/chap1.pdf) | 
 
 
 
