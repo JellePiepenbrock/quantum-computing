@@ -10,4 +10,4 @@ I want to learn about quantum computing and am reading about it - this repositor
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
-| How “Quantum” is the D-Wave Machine | _02 may 2014_ | [paper](https://people.eecs.berkeley.edu/~vazirani/pubs/dwave.pdf) | _None_ | _None_ | 
+| How “Quantum” is the D-Wave Machine? | _02 may 2014_ | [paper](https://people.eecs.berkeley.edu/~vazirani/pubs/dwave.pdf) | _None_ | _None_ | 
