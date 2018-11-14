@@ -7,9 +7,10 @@ I want to learn about quantum computing and am reading about it - this repositor
 Nielsen and Chang on [Amazon](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary-ebook/dp/B07FPFL6HG/)
 
 2. [Lecture Notes](#lecturenotes)
+
 |Lecturer|Class|Subject|
 |---|---|---|
-| John Preskill | CS219 | [Introduction and Overview](http://www.theory.caltech.edu/~preskill/ph219/)| 
+| John Preskill | CS219 | [Introduction and Overview](http://www.theory.caltech.edu/~preskill/ph219/) | 
 
 
 
