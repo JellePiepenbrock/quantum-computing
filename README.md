@@ -6,6 +6,10 @@ I want to learn about quantum computing and am reading about it - this repositor
 
 Nielsen and Chang on [Amazon](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary-ebook/dp/B07FPFL6HG/)
 
+|Title|Date|Paper|Code|Labels|
+|---|---|---|---|---|
+| Quantum Computing in the NISQ era and beyond | _02 jan 2018_ | [paper](https://arxiv.org/abs/1801.00862) | _None_ | _None_ | 
+
 2. [Lecture Notes](#lecturenotes)
 
 |Lecturer|Class|Subject|
