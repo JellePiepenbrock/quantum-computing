@@ -5,6 +5,7 @@ I want to learn about quantum computing and am reading about it - this repositor
 Nielsen and Chang on [Amazon](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary-ebook/dp/B07FPFL6HG/)
 
 1. [Quantum Computing](#general)
+
 May sort these into more specific categories at some point.
 
 |Title|Date|Paper|Code|Labels|
