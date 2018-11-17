@@ -12,6 +12,8 @@ May sort these into more specific categories at some point.
 |---|---|---|---|---|
 | Quantum Computing in the NISQ era and beyond | _02 jan 2018_ | [paper](https://arxiv.org/abs/1801.00862) | _None_ | _None_ | 
 | Quantum Machine Learning | _14 may 2018_ | [paper](https://arxiv.org/pdf/1611.09347.pdf) | _None_ | _None_ | 
+| An Introduction to Quantum Machine Learning | _11 september 2014_ | [paper](https://arxiv.org/pdf/1409.3097.pdf) | _None_ | _None_ | 
+
 
 2. [Lecture Notes](#lecturenotes)
 
