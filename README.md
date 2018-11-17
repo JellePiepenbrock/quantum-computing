@@ -2,13 +2,14 @@
 
 I want to learn about quantum computing and am reading about it - this repository will serve as an archive for myself. Maybe someone else will find it useful.
 
-1. [General Quantum Computing](#general)
-
 Nielsen and Chang on [Amazon](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary-ebook/dp/B07FPFL6HG/)
+
+1. [Quantum Computing](#general)
 
 |Title|Date|Paper|Code|Labels|
 |---|---|---|---|---|
 | Quantum Computing in the NISQ era and beyond | _02 jan 2018_ | [paper](https://arxiv.org/abs/1801.00862) | _None_ | _None_ | 
+| Quantum Machine Learning | _14 may 2018_ | [paper](https://arxiv.org/pdf/1611.09347.pdf) | _None_ | _None_ | 
 
 2. [Lecture Notes](#lecturenotes)
 
